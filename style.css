@@ -1,0 +1,20 @@
+    body {
+            background-color: #1A1423;
+            color: white;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        nav{
+            background-color: #372549;
+      }
+      a {
+        color: #c282a0;
+      }
+      article {
+        background-color: #B75D69;
+      }
+      header {
+        background-color: #B75D69;
+      }
+      .ocs-link {
+        color: #593a49;
+      }
