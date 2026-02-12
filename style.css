@@ -2,19 +2,26 @@
             background-color: #1A1423;
             color: white;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-image: url(opalstar.webp);
+        background-repeat: no-repeat;
+        background-size: 2000px;
         }
         nav{
-            background-color: #372549;
+            background-color: #ebd8ff;
       }
       a {
-        color: #c282a0;
+        color: #cca5f5;
       }
       article {
-        background-color: #B75D69;
+        background-color: #fbd3ff;
       }
       header {
-        background-color: #B75D69;
+        background-color: #d2adf9;
       }
       .ocs-link {
         color: #593a49;
       }
+      img {
+        height: 100px;
+      }
+      
