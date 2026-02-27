@@ -10,10 +10,10 @@
             background-color: #ebd8ff;
       }
       a {
-        color: #cca5f5;
+        color: #ac8ecc;
       }
       article {
-        background-color: #fbd3ff;
+        background-color: #c1a7c4;
       }
       header {
         background-color: #d2adf9;
@@ -24,4 +24,15 @@
       img {
         height: 100px;
       }
-      
+      p {
+        color: #493664;
+      } 
+      h2 {
+        color: #1A1423;
+      }
+      .favorites {
+        color: #1A1423;
+      }
+      h3 {
+         color: #493664;
+      }
