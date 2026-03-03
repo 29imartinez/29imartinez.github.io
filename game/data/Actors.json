@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"battlerName":"$bellebattler","characterIndex":5,"characterName":"SF_Actor1","classId":4,"equips":[26,28,0,9,95],"faceIndex":0,"faceName":"$bellefacenew","traits":[],"initialLevel":1,"maxLevel":99,"name":"Belle","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"$newenzoenzo","characterIndex":0,"characterName":"SF_Actor1","classId":1,"equips":[4,27,0,11,77],"faceIndex":0,"faceName":"$newnewnewenzo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Enzo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"$newenzoenzo","characterIndex":0,"characterName":"SF_Actor1","classId":1,"equips":[4,27,0,11,92],"faceIndex":0,"faceName":"$newnewnewenzo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Enzo","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"$ccbattler","characterIndex":7,"characterName":"SF_Actor1","classId":8,"equips":[44,45,47,13,79],"faceIndex":0,"faceName":"$ccface","traits":[],"initialLevel":1,"maxLevel":99,"name":"CC","nickname":"CC","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":3,"equips":[8,40,66,21,82],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Muffin","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":3,"equips":[11,40,66,21,82],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Muffin","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
