@@ -1,41 +1,64 @@
     body {
-            background-color: #1A1423;
-            color: white;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-image: url(opalstar.webp);
-        background-repeat: no-repeat;
-        background-size: 2000px;
-        }
-        nav{
-            background-color: #ebd8ff;
-      }
-      a {
-        color: #ac8ecc;
-      }
-      article {
-        background-color: #c1a7c4;
-      }
-      header {
-        background-color: #d2adf9;
-      }
-      .ocs-link {
-        color: #593a49;
-      }
-      img {
-        height: 100px;
-      }
-      p {
-        color: #493664;
-      } 
-      h2 {
-        color: #1A1423;
-      }
-      .favorites {
-        color: #1A1423;
-      }
-      h3 {
-         color: #493664;
-      }
-.stars {
-  height: 25px;
-}
+      background-color: #1A1423;
+      color: white;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      background-image: url(opalstar.webp);
+      background-repeat: no-repeat;
+      background-size: 2000px;
+    }
+
+    nav {
+      background-color: #ebd8ff;
+    }
+
+    a {
+      color: #ac8ecc;
+    }
+
+    article {
+      background-color: #c1a7c4;
+    }
+
+    header {
+      background-color: #d2adf9;
+    }
+
+    .ocs-link {
+      color: #593a49;
+    }
+
+    img {
+      height: 100px;
+    }
+
+    p {
+      color: #493664;
+    }
+
+    h2 {
+      color: #1A1423;
+    }
+
+    .favorites {
+      color: #1A1423;
+    }
+
+    h3 {
+      color: #493664;
+    }
+
+    .stars {
+      height: 25px;
+    }
+
+
+    .transitionimg {
+      transition: height 300ms ease-in;
+    }
+
+    .transitionimg:hover {
+      height: 150px
+
+    }
+
+  
