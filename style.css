@@ -24,7 +24,11 @@
     }
 
     .ocs-link {
-      color: #593a49;
+      color: #503542;
+    }
+
+    .ocs-link:hover {
+      color: #ece4f5;
     }
 
     img {
@@ -43,11 +47,15 @@
       color: #1A1423;
     }
 
+    .favorites:hover {
+      color: #fdf0ff;
+    }
+
     h3 {
       color: #493664;
     }
 
-    .stars {
+    .divider {
       height: 25px;
     }
 
@@ -60,5 +68,18 @@
       height: 150px
 
     }
+
+    div {
+      outline: #fdf0ff 2px solid;
+    }
+     .link:hover {
+      color: #ece4f5;
+    
+     }
+
+     .link {
+      color: #1A1423;
+     }
+    
 
   
